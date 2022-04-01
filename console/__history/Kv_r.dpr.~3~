@@ -9,7 +9,7 @@ uses
 
 Var a, b, c, x1, x2, x, D : Real;
 begin
-  Write(' input a b c => ');
+  Write(' a b c => ');
 Readln (a, b, c);
 If a = 0 then
 If b = 0 then
